@@ -1,0 +1,37 @@
+.card {
+  width: 424px;
+  height: 567px;
+  border-radius: 30px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background: #fff;
+  transition: 400ms linear;
+}
+.card:hover {
+  background-color: yellowgreen;
+}
+
+.bg-clr {
+  background-color: bisque;
+}
+
+.mx-12 {
+  margin-left: 12px;
+  margin-right: 12px;
+}
+.mt-40 {
+  padding-top: 40px;
+}
+.w-100 {
+  max-width: 90%;
+}
+.bttn {
+  padding: 15px;
+  color: #fff;
+  background: #000;
+  border-radius: 5px;
+  border: 2px solid white;
+  margin: 20px;
+}
+.p-3 {
+  padding: 16px;
+}
